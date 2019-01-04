@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CustomViewSet</string>
+
+    <string-array name="main_menu_array">
+        <item>可省略TextView(已处理表情)</item>
+        <item>左右对齐TextView</item>
+    </string-array>
 </resources>
